@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "mimosa-hook-status/v1",
+  "recordedAt": "2026-10-15T06:45:10.848Z",
+  "sessionId": "sess_83bfdbe0-931b-4f6f-9f55-b8838ef7011c",
+  "event": "PostToolUse",
+  "toolName": "Edit",
+  "file": "C:/Users/pengxiwei/.zcode/skills/api-reference-table/SKILL.md",
+  "outcome": "clear",
+  "coverage": "complete",
+  "findingCount": 0,
+  "durationMs": 3,
+  "hostState": "hook_complete",
+  "reportHint": ".mimosa/reports/"
+}
